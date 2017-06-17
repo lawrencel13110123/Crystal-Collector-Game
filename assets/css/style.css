@@ -1,0 +1,60 @@
+.instruction {
+	border: 2px solid black;
+	padding: 2%;
+	background-color: white; 
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+	color: brown;
+}
+
+.randomNumber {
+	border: 2px solid black;
+	padding: 3%;
+	background-color: white; 
+	opacity: 0.6; 
+	color: green;
+	font-size: 200%; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+}
+
+.totalWL { 
+	border: 2px solid black;
+	padding: 2%; 
+	background-color: white; 
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+ }
+
+ .totalScore {
+ 	border: 2px solid black; 
+ 	background-color: white; 
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+	color: brown;
+
+ }
+
+ .scoreDisplay {
+ 	border: 2px solid black;
+	padding: 3%; 
+	background-color: white; 
+	opacity: 0.6; 
+	color: green;
+	font-size: 200%;
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+ }
+
+ .wallpaper { 
+	background-image: url("../images/wallpaper.jpg");
+	background-size: 100%;
+ }
+
+ .header { 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color: brown;
+  }
+
